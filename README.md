@@ -24,7 +24,7 @@
   When it comes to technology, I am interested in game development, chess engines, old games/consoles, game cheat creation, and automating daily tasks to make my life easier.
 </p>
 <p align="center">
-  I am also interested in chess, fish keeping, reading programming books and gaming.
+  I am also interested in chess, fish keeping, reading, drawing and gaming.
 </p>
 <p align="center">
   If there's anything you need to ask me related to any of the above, send me an email: parisoplop@gmail.com
@@ -38,10 +38,8 @@
   <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
 </p>
-
+</br>
 ----
 
 [![OFFTKP's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtkp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offtkp&exclude_repo=glad-stable&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-----
