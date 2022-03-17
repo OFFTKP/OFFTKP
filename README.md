@@ -5,9 +5,10 @@
 <p align="center">Software developer since 2014 and undergrad student in software engineering.</p>
 <p align="center">
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
+  <img width="50" height="50" src="cmake.png"/>
+  <img width="50" height="50" src="Opengl-logo.svg"/>
   <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
-  <img width="50" height="50" src="cmake.png"/>
 </p>
 <p align="center">
   <h2 align="center">Some of my projects</h2>
