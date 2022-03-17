@@ -4,6 +4,12 @@
 
 <p align="center">Software developer since 2014 and undergrad student in software engineering.</p>
 <p align="center">
+  <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
+  <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+  <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
+  <img width="50" height="50" src="cmake.png"/>
+</p>
+<p align="center">
   <h2 align="center">Some of my projects</h2>
   <img width="400" height="300" src="https://github.com/OFFTKP/TKPEmu/blob/master/TKPEmu/screen.png"/>
   <img width="400" height="300" src="https://i.imgur.com/Gc0gmXK.png"/>
@@ -30,14 +36,6 @@
   If there's anything you need to ask me related to any of the above, send me an email: parisoplop@gmail.com
 </p>
 </br></br></br>
-<h3 align="center">
-  Favorite languages
-</h3>
-<p align="center">
-  <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
-  <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
-  <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
-</p>
 </br>
 
 ----
