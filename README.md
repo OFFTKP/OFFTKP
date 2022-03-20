@@ -4,11 +4,18 @@
 
 <p align="center">Software developer since 2014 and undergrad student in software engineering.</p>
 <p align="center">
+  <br/>Currently working with:<br/>
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
   <img width="50" height="50" src="cmake.png"/>
+  <br/>Learning:<br/>
   <img width="50" height="50" src="Opengl-logo.svg"/>
-  <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
+  <img width="50" height="50" src="React-icon.svg"/>
+  <img width="50" height="50" src="c-icon.svg"/>
+  <img width="50" height="50" src="js-icon.svg"/>
+  <br/>Have previously worked with:<br/>
+  <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+  <img width="50" height="50" src="vb-icon.svg"/>
 </p>
 <p align="center">
   <h2 align="center">Some of my projects</h2>
