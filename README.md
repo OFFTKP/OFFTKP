@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-  Play Pokemon Red in <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>!<br/>
+  Let's Play Pokemon Red together in <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>!<br/>(server reset: 21/3/2022)<br/>
   <img src="http://emulatorserv.vps.webdock.io:8080/i?test=5" width=320/><br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/">Up</a>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">Right</a>
