@@ -47,6 +47,12 @@
 </br>
 
 ----
+Play Pokemon Red in TKPEmu!
+
+<img src="http://emulatorserv.vps.webdock.io:8080/i"/>
+<a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/TKPEmu">Enter</a>
+
+----
 
 [![OFFTKP's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtkp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offtkp&exclude_repo=glad-stable&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
