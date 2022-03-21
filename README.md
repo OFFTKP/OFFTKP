@@ -49,7 +49,7 @@
 ----
 Play Pokemon Red in TKPEmu!
 
-<img src="http://emulatorserv.vps.webdock.io:8080/i"/>
+<img src="http://emulatorserv.vps.webdock.io:8080/i" width="320"/> 
 <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/TKPEmu">Enter</a>
 
 ----
