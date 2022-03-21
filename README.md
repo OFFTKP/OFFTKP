@@ -16,6 +16,7 @@
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">A</a>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Enter</a>
+  <br/>Broken image or not working? Too many people might be playing at once. This is hosted in a cheap vps.
 </p>
 <p align="center">
   <details>
