@@ -7,13 +7,13 @@
 <p align="center">
   Play Pokemon Red in TKPEmu!<br/>
   <img src="http://emulatorserv.vps.webdock.io:8080/i?test=5" width=320/><br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/TKPEmu">Up</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/TKPEmu">Right</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/TKPEmu">Down</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=4&callback=http://github.com/OFFTKP/TKPEmu">Left</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/TKPEmu">A</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/TKPEmu">B</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/TKPEmu">Enter</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/">Up</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">Right</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">Down</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=4&callback=http://github.com/OFFTKP/">Left</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">A</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Enter</a>
 </p>
 
 
