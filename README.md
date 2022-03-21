@@ -4,6 +4,8 @@
 
 <p align="center">Software developer since 2014 and undergrad student in software engineering.</p>
 
+----
+
 <p align="center">
   Play Pokemon Red in <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>!<br/>
   <img src="http://emulatorserv.vps.webdock.io:8080/i?test=5" width=320/><br/>
@@ -15,9 +17,22 @@
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Enter</a>
 </p>
+<p align="center">
+  <details>
+   <summary>How was this done?</summary>
+    <br/>
+   First, let me make it clear that this is not my idea. Props to <a href="https://github.com/HFO4">HFO4</a>, check their profile page.<br/><br/>
+   This was made possible with <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>. <br/><br/>
+    
+   TKPEmu is an open-source emulator and my favorite hobby project. It's a normal emulator with a GUI, disassembler etc. and one of its functionalities is playing games through a very simple web server.<br/><br/>
+  Every button is a simple get request to a vps running TKPEmu.<br/>
+  You can customize it to create your own webserver! I will make a tutorial for this in the future. <br/><br/>
+    
+  Email me if you need help: parisoplop@gmail.com
+  </details>
+</p>
 
-
-
+---
 
 <p align="center">
   <br/>Currently working with:<br/>
