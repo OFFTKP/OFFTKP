@@ -7,16 +7,25 @@
 ----
 
 <p align="center">
-  Let's Play Pokemon Red together in <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>!<br/>(server reset: 21/3/2022)<br/>
+  Let's Play Pokemon Red together!<br/>
   <img src="http://emulatorserv.vps.webdock.io:8080/i?test=5" width=320/><br/>
+</p>
+<p align="center">
+  <br/>Buttons: <br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/">Up</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">Right</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">Down</a>
+  <br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=4&callback=http://github.com/OFFTKP/">Left</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">Right</a>
+  <br/>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">Down</a> <br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">A</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Enter</a>
-  <br/>Broken image or not working? Try refreshing! Too many people might be playing at once. This is hosted in a cheap vps.
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a><br/>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Start</a>
+  <br/><br/>
+  Made with <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>.<br/>
+  <br/>server started: 21/3/2022<br/>
+  <br/><br/>
+  
 </p>
 <p align="center">
   <details>
