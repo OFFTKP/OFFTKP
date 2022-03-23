@@ -43,8 +43,8 @@
 </p>
 
 ---
-
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=offtkp&color=gray"/>
   <br/>Currently working with:<br/>
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
   <img width="50" height="50" src="cmake.png"/>
