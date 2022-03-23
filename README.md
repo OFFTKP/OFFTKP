@@ -22,8 +22,12 @@
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a><br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Start</a>
   <br/><br/>
-  Made with <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>.<br/>
-  <br/>server started: 21/3/2022<br/>
+  Made with:<br/>
+  <a href="https://github.com/OFFTKP/TKPEmu">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=TKPEmu&theme=tokyonight" />
+  </a>
+  <br/>
+  <br/>server started: 22/3/2022<br/>
   <br/><br/>
   
 </p>
@@ -58,17 +62,7 @@
   <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   <img width="50" height="50" src="vb-icon.svg"/>
 </p>
-<p align="center">
-  <h2 align="center">Some of my projects</h2>
-  <img width="400" height="300" src="https://github.com/OFFTKP/TKPEmu/blob/master/TKPEmu/screen.png"/>
-  <img width="400" height="300" src="https://i.imgur.com/Gc0gmXK.png"/>
-  <a href="https://github.com/OFFTKP/TKPEmu">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=TKPEmu&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/OFFTKP/AnnouncementHelper">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=AnnouncementHelper&theme=tokyonight" />
-  </a>
-</p>
+
 <p>
   <h2 align="center">About me :dart:</h2>
 </p>
