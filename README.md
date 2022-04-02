@@ -70,7 +70,7 @@
   Timezone: GMT+2
 </p></br>
 <p align="center">
-  When it comes to technology, I am interested in game development, chess engines, old games/consoles, game cheat creation, and automating daily tasks to make my life easier.
+  When it comes to technology, I am interested in game development, chess engines, old games/consoles, and automating daily tasks to make my life easier.
 </p>
 <p align="center">
   I am also interested in chess, fish keeping, reading, drawing and gaming.
