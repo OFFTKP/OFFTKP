@@ -12,14 +12,14 @@
 </p>
 <p align="center">
   <br/>Buttons: <br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/">Up</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=1&callback=http://github.com/OFFTKP/">⬆️</a>
   <br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=4&callback=http://github.com/OFFTKP/">Left</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">Right</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=4&callback=http://github.com/OFFTKP/">⬅️</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">➡️</a>
   <br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">Down</a> <br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">A</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">B</a><br/>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">⬇️</a> <br/>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">🅰</a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">🅱</a><br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Start</a>
   <br/><br/>
   Made with:<br/>
