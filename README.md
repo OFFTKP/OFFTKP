@@ -31,20 +31,6 @@
   <br/><br/>
   
 </p>
-<p align="center">
-  <details>
-   <summary>How was this done?</summary>
-    <br/>
-   First, let me make it clear that this is not my idea. Props to <a href="https://github.com/HFO4">HFO4</a>, check their profile page.<br/><br/>
-   This was made possible with <a href="https://github.com/OFFTKP/TKPEmu">TKPEmu</a>. <br/><br/>
-    
-   TKPEmu is an open-source emulator and my favorite hobby project. It's a normal emulator with a GUI, disassembler etc. and one of its functionalities is playing games through a very simple web server.<br/><br/>
-  Every button is a simple get request to a vps running TKPEmu.<br/>
-  You can customize it to create your own webserver! I will make a tutorial for this in the future. <br/><br/>
-    
-  Email me if you need help: parisoplop@gmail.com
-  </details>
-</p>
 
 ---
 <p align="center">
@@ -78,10 +64,4 @@
 <p align="center">
   If there's anything you need to ask me related to any of the above, send me an email: parisoplop@gmail.com
 </p>
-</br></br></br>
 </br>
-
-----
-
-[![OFFTKP's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtkp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=offtkp&exclude_repo=glad-stable&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
