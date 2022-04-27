@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-  Let's Play Pokemon Red together!<br/>
+  Let's Play Pokemon Gold together!<br/>
   <img src="http://emulatorserv.vps.webdock.io:8080/i?test=5" width=320/><br/>
 </p>
 <p align="center">
@@ -27,7 +27,8 @@
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=TKPEmu&theme=tokyonight" />
   </a>
   <br/>
-  <br/>server started: 22/3/2022<br/>
+  <br>Last run: Pokemon Red, 22/3-28/4, 0 badges
+  <br/>This run: Pokemon Gold, server started: 28/4/2022<br/>
   <br/><br/>
   
 </p>
