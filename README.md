@@ -6,7 +6,7 @@
 
 <p align="center">
   Let's Play Pokemon Gold together!<br/>
-  <img src="http://emulatorserv.vps.webdock.io:8080/image" width=320/><br/>
+  <img src="http://emulatorserv.vps.webdock.io:8080/image?test=1" width=320/><br/>
 </p>
 <p align="center">
   <br/>Buttons: <br/>
