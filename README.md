@@ -2,8 +2,6 @@
   <h1 align="center"><b>Hi there, I'm Paris</h1>
 </p>
 
-<p align="center">Software developer and undergrad student in Information and Electronic Engineering.</p>
-
 ----
 
 <p align="center">
@@ -34,6 +32,7 @@
 </p>
 
 ---
+<p align="center">Software developer and undergrad student in Information and Electronic Engineering.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=offtkp&color=gray"/>
   <br/>Currently working with:<br/>
