@@ -19,7 +19,12 @@
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">🅰</a>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">🅱</a><br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Start</a>
-  <br/><br/>
+  <br/>
+  <br/>
+  You can click the buttons multiple times in quick succession to move faster
+  <br/>
+  <br/>
+  <br/>
   Made with:<br/>
   <a href="https://github.com/OFFTKP/TKPEmu">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=TKPEmu&theme=tokyonight" />
