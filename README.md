@@ -37,36 +37,22 @@
 </p>
 
 ---
-<p align="center">Software developer and undergrad student in Information and Electronic Engineering.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=offtkp&color=gray"/>
+  <br/>Software developer and undergrad student in Information and Electronic Engineering.</p>
+<p align="center">
   <br/>Currently working with:<br/>
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
-  <img width="50" height="50" src="cmake.png"/>
+  <br/>
   <br/>Learning:<br/>
+  <img width="50" height="50" src="cmake.png"/>
   <img width="50" height="50" src="Opengl-logo.svg"/>
   <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
-  <img width="50" height="50" src="React-icon.svg"/>
   <img width="50" height="50" src="c-icon.svg"/>
+  <img width="50" height="50" src="React-icon.svg"/>
   <img width="50" height="50" src="js-icon.svg"/>
+  <br/>
   <br/>Have previously worked with:<br/>
   <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
   <img width="50" height="50" src="vb-icon.svg"/>
 </p>
-
-<p>
-  <h2 align="center">About me :dart:</h2>
-</p>
-<p align="center">
-  Timezone: GMT+2
-</p></br>
-<p align="center">
-  When it comes to technology, I am interested in game development, chess engines, old games/consoles, and automating daily tasks to make my life easier.
-</p>
-<p align="center">
-  I am also interested in chess, fish keeping, reading, drawing and gaming.
-</p>
-<p align="center">
-  If there's anything you need to ask me related to any of the above, send me an email: parisoplop@gmail.com
-</p>
-</br>
