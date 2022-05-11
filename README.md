@@ -41,18 +41,16 @@
   <img src="https://komarev.com/ghpvc/?username=offtkp&color=gray"/>
   <br/>Software developer and undergrad student in Information and Electronic Engineering.</p>
 <p align="center">
-  <br/>Currently working with:<br/>
+  <br/>Languages I love:<br/>
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
+  <img width="50" height="50" src="go-logo-white.svg"/>
   <br/>
-  <br/>Learning:<br/>
+  <br/>Languages I have previously worked with:<br/>
   <img width="50" height="50" src="cmake.png"/>
   <img width="50" height="50" src="Opengl-logo.svg"/>
-  <img width="50" height="50" src="https://go.dev/images/go-logo-white.svg"/>
   <img width="50" height="50" src="c-icon.svg"/>
   <img width="50" height="50" src="React-icon.svg"/>
   <img width="50" height="50" src="js-icon.svg"/>
-  <br/>
-  <br/>Have previously worked with:<br/>
-  <img width="50" height="50" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>
+  <img width="50" height="50" src="csharp.svg"/>
   <img width="50" height="50" src="vb-icon.svg"/>
 </p>
