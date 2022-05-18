@@ -24,10 +24,9 @@
   You can click the buttons multiple times in quick succession to move faster
   <br/>
   <br/>
-  <br/>
-  Made with:<br/>
+  Made with
   <a href="https://github.com/OFFTKP/TKPEmu">
-    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=OFFTKP&repo=TKPEmu&theme=tokyonight" />
+    TKPEmu
   </a>
   <br/>
   <br>Last run: Pokemon Red, 22/3-28/4, 0 badges
