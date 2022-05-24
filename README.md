@@ -1,5 +1,10 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Paris</h1>
+  <h1 align="center"><b>Hi there, I'm Paris :wave:</h1>
+</p>
+<p align="center">
+Currently working on my GSoC
+<img src="./gsoc.svg" width=20 height=20 />
+ project with LibreOffice (<a href="https://offtkpgsoc.blogspot.com/">blog</a>)
 </p>
 
 ----
