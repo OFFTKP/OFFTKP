@@ -43,7 +43,7 @@ Currently working on my GSoC
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=offtkp&color=gray"/>
-  <br/>Software developer and undergrad student in Information and Electronic Engineering.</p>
+  <br/>Self taught software developer</p>
 <p align="center">
   <br/>Languages I love:<br/>
   <img width="50" height="50" src="https://isocpp.org/assets/images/cpp_logo.png"/>
