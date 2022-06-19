@@ -21,8 +21,8 @@ Currently working on my GSoC
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=2&callback=http://github.com/OFFTKP/">➡️</a>
   <br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=3&callback=http://github.com/OFFTKP/">⬇️</a> <br/>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/">🅰</a>
-  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/">🅱</a><br/>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=5&callback=http://github.com/OFFTKP/"><img src="./ABut.png" width=20 height=20 /></a>
+  <a href="http://emulatorserv.vps.webdock.io:8080/p?action=6&callback=http://github.com/OFFTKP/"><img src="./BBut.png" width=20 height=20 /></a><br/>
   <a href="http://emulatorserv.vps.webdock.io:8080/p?action=7&callback=http://github.com/OFFTKP/">Start</a>
   <br/>
   <br/>
