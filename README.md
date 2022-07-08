@@ -30,8 +30,8 @@ Currently working on my GSoC
   <br/>
   <br/>
   Made with
-  <a href="https://github.com/OFFTKP/TKPEmu">
-    TKPEmu
+  <a href="https://github.com/OFFTKP/hydra">
+    hydra
   </a>
   <br/>
   <br>Last run: Pokemon Red, 22/3-28/4, 0 badges
